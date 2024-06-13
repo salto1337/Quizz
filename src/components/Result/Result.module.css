@@ -1,0 +1,17 @@
+.correct {
+	margin-top: 10px;
+}
+
+.reset {
+	margin-top: 10px;
+	padding: 10px 30px;
+	background: linear-gradient(
+		90deg,
+		rgba(82, 105, 205, 1) 10%,
+		rgba(1, 30, 62, 1) 100%
+	);
+	border-radius: 3px;
+	border: none;
+	color: white;
+	cursor: pointer;
+}

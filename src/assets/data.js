@@ -1,0 +1,42 @@
+export const data = [
+	{
+		question: "What is the capital city of France?",
+		option1: "Berlin",
+		option2: "Madrid",
+		option3: "Paris",
+		option4: "Rome",
+		correct: 3,
+	},
+	{
+		question: "Which planet is known as the Red Planet?",
+		option1: "Venus",
+		option2: "Mars",
+		option3: "Jupiter",
+		option4: "Saturn",
+		correct: 2,
+	},
+	{
+		question: "Who wrote the play 'Romeo and Juliet'?",
+		option1: "William Shakespeare",
+		option2: "Jane Austen",
+		option3: "Charles Dickens",
+		option4: "Mark Twain",
+		correct: 1,
+	},
+	{
+		question: "Which element has the chemical symbol 'H'?",
+		option1: "Hydrogen",
+		option2: "Helium",
+		option3: "Carbon",
+		option4: "Oxygen",
+		correct: 1,
+	},
+	{
+		question: "What is the tallest mountain in the world?",
+		option1: "Mount Kilimanjaro",
+		option2: "Mount Everest",
+		option3: "K2",
+		option4: "Mount McKinley",
+		correct: 2,
+	},
+];
